@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace Task_2_LAB7
 {
-    class Savings
+    class Savings : Account, IBasicBankingInterface
     {
         public int amount { get; set; }
-        public void deposit()
+        public Savings(string accName, string accNo, double balance) : base(accName, accNo, balance)
         {
-
+            
         }
-        public void withdraw()
+        public override void deposit(double amount)
         {
-
+            Balance = Balance + amount;
+        }
+        public override void withdraw(double amount)
+        {
+            if (amount < Balance)
+            {
+                Balance = Balance - amount;
+            }
         }
     }
 }
