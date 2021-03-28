@@ -1,0 +1,7 @@
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\bin\Debug\Task 1_LAB7.exe.config
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\bin\Debug\Task 1_LAB7.exe
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\bin\Debug\Task 1_LAB7.pdb
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\obj\Debug\Task 1_LAB7.csprojAssemblyReference.cache
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\obj\Debug\Task 1_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\obj\Debug\Task 1_LAB7.exe
+C:\Users\HP\source\Documents\C#_Final\Task 1_LAB7\Task 1_LAB7\obj\Debug\Task 1_LAB7.pdb
