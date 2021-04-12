@@ -1,0 +1,10 @@
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\bin\Debug\Insertion.exe.config
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\bin\Debug\Insertion.exe
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\bin\Debug\Insertion.pdb
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.csprojAssemblyReference.cache
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.Form1.resources
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.Properties.Resources.resources
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.csproj.GenerateResource.cache
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.exe
+C:\Users\HP\source\Documents\C#_Final\Insertion\Insertion\obj\Debug\Insertion.pdb
